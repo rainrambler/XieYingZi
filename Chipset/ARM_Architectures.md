@@ -12,5 +12,9 @@ ARM Architectures
 | 虚拟化主机扩展(VHE)                                 | 8.1-A, 9.0-A              | 提升2型Hypervisor的性能。                                    |                                                              |
 | **Privilege Access Never (PAN)**                    | 8.1-A, 9.0-A              | PAN 允许内核阻止访问非特权位置，从而提供更高的健壮性。       | [AArch64内存模型](https://developer.arm.com/documentation/102376/latest/Permissions-attributes) |
 | Statistical Profiling Extension (统计分析扩展，SPE) | 8.2-A, 9.0-A              |                                                              | [统计分析扩展](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/statistical-profiling-extension-for-armv8-a) |
-| Scalable Vector Extensions (SVE)可缩放向量扩展      | Armv8.2-A                 |                                                              |                                                              |
+| Scalable Vector Extensions (SVE)可缩放向量扩展      | Armv8.2-A                 | SIMD可变向量长度                                             | [SVE](https://developer.arm.com/documentation/dai0548/latest) |
+| 指针认证（Pointer authentication）                  | 8.3-A, 9.0-A              | 将寄存器的内容用作间接分支或数据引用的地址之前对其进行身份验证。 | [代码重用攻击](https://community.arm.com/developer/tools-software/tools/b/tools-software-ides-blog/posts/code-reuse-attacks-the-compiler-story) |
+|                                                     |                           |                                                              |                                                              |
+|                                                     |                           |                                                              |                                                              |
+|                                                     |                           |                                                              |                                                              |
 
