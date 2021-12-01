@@ -16,7 +16,7 @@ ARM Architectures
 | **指针验证**（Pointer authentication）              | 8.3-A, 9.0-A              | 将寄存器的内容用作间接分支或数据引用的地址之前对其进行身份验证。抵御ROP和JOP攻击。 | [代码重用攻击](https://community.arm.com/developer/tools-software/tools/b/tools-software-ides-blog/posts/code-reuse-attacks-the-compiler-story) |
 | 嵌套虚拟化                                          | 8.3-A, 8.4-A, 9.0-A       |                                                              | [AArch64虚拟化](https://developer.arm.com/documentation/102142/latest) |
 | **内存标记扩展**（Memory Tagging Extension，MTE）   | 8.5-A, 9.0-A              | 识别程序中的内存安全违规。                                   | [从架构增强内存安全](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/enhancing-memory-safety) <br>[MTE白皮书](https://developer.arm.com/-/media/Arm%20Developer%20Community/PDF/Arm_Memory_Tagging_Extension_Whitepaper.pdf?revision=3cf83df4-b695-43fa-b254-a88133c2126b&hash=A4CBFF993EA90FD081B275CF31A3325A) |
-| **分支目标标识**(Branch Target Identification, BTI) | 8.5-A, 9.0-A              | 识别非直接分支的有效目标。是对指针验证的补充。增加对JOP的防御。 | [代码重用攻击](https://community.arm.com/developer/tools-software/tools/b/tools-software-ides-blog/posts/code-reuse-attacks-the-compiler-story) |
+| **分支目标标识**(Branch Target Identification, BTI) | 8.5-A, 9.0-A              | 识别非直接分支的有效目标。是对**指针验证**的补充。增加对JOP的防御。 | [代码重用攻击](https://community.arm.com/developer/tools-software/tools/b/tools-software-ides-blog/posts/code-reuse-attacks-the-compiler-story) |
 | GEneral Matrix Multiply (GEMM)                      | 8.6-A, 9.1-A              | 增强SIMD和SVE指令                                            |                                                              |
 | BFloat16                                            | 8.6-A, 9.1-A              | 增强SIMD和SVE指令支持BFloat16类型                            |                                                              |
 | 高精度计时器                                        | 8.6-A, 9.1-A              | 1GHz高精度计时器                                             | [ARM 8.5-A架构开发2018](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/arm-a-profile-architecture-2018-developments-armv85a) |
@@ -24,4 +24,8 @@ ARM Architectures
 | SVE2指令集                                          | 9.0-A                     | 可缩放向量扩展的超集。                                       | [ARM A系列架构开发2020](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/arm-a-profile-architecture-developments-2020) |
 | 事务内存扩展(Transactional Memory Extension, TME)   | 9.0-A                     | 硬件事务内存 (HTM) 支持。 事务内存用于解决编写高并发、多线程程序的困难，通过减少由于锁争用导致的序列化，粗粒度、线程级并行的数量可以随着 CPU 的数量更好地扩展。 | [A系列架构的新技术](https://community.arm.com/developer/ip-products/processors/b/processors-ip-blog/posts/new-technologies-for-the-arm-a-profile-architecture) |
 | 分支记录缓存扩展(BRBE)                              | 9.2-A                     | 用于调试和热点分析。                                         |                                                              |
+
+Ref:
+
+[A-Profile Architectures](https://developer.arm.com/architectures/cpu-architecture/a-profile#mte)
 
