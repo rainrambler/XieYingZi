@@ -127,3 +127,9 @@
 
 此图显示了 Arm 架构中的不同安全功能。这些功能可用于保护系统中的不同资产： 
 
+![Levels of increasing security through isoloation and reducing attack surface. ](ARM_Isolation.png)
+
+图中突出显示的技术提供不同级别的保护和不同的成本级别。 系统设计人员确定哪种技术最适合保护特定资产。
+
+本系列中的其他指南将更详细地介绍这些技术。 
+
