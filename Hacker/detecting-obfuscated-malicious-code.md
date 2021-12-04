@@ -12,6 +12,10 @@
 
 在这种情况下使用的混淆通常很容易解开，利用轻量级的通用编码，如 base64、url 编码或简单的 XOR 转换，而不是使用实际的加密。这通常（尽管并非总是）会导致具有更高熵的字符串。简而言之，[熵](https://en.wikipedia.org/wiki/Entropy_(information_theory))是对给定字符串中包含的信息密度或平均信息水平的度量。虽然高熵或编码数据块的存在通常并不表示恶意软件，但几乎所有恶意软件都会包含一些加密/编码数据块。 
 
+## 用于混淆的一些常见编码
+
+为了说明上述情况，我们测量了使用各种常见混淆技术混淆的字符串的熵。 原始未混淆字符串是一段“Lorem ipsum”文本，香农熵约为 4.179。 
+
 Ref:
 
 [Using Entropy to Identify Obfuscated Malicious Code](https://blog.phylum.io/detecting-obfuscated-malicious-code)
