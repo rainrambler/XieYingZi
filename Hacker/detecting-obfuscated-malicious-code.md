@@ -34,6 +34,18 @@
 
 混淆字符串出现在大多数 JavaScript 漏洞利用工具包中。目标是隐藏行为。下面的屏幕截图直接取自最近用于通过冒充 Google 标签管理器脚本来浏览信用卡信息的恶意代码示例。
 
+![Code Obfuscation Example](Code Obfuscation Example.png)
+
+黄色的长字符串混淆了已知的恶意 url。这些种类的项目由这种启发式识别。编码后的 url 的熵约为 5.0，而原始字符串的熵明显较低，约为 4.5。
+
+## 重要性
+
+大量混淆字符串在良性软件中并不常见。通过检查给定代码段中字符串的平均熵，并将其与类似文本正文的预期熵进行比较，我们可以识别潜在的恶意软件行为以进行进一步分析。
+
+## Phylum 的方法
+
+Phylum 的技术可识别客户依赖项源代码中的混淆数据。如果混淆块的数量超过了必要的阈值，则会对 [Phylum Package Score](https://blog.phylum.io/open-source-software-risk-score) 产生负面影响。加密/编码/混淆字符串的存在本身并不表示恶意行为。然而，这是一个值得考虑的有趣数据点。大量混淆字符串会对降低包分数产生中等影响。 
+
 Ref:
 
 [Using Entropy to Identify Obfuscated Malicious Code](https://blog.phylum.io/detecting-obfuscated-malicious-code)
