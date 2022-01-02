@@ -14,7 +14,7 @@
 
 公司（更低的成本，更安全）和最终用户（更低的摩擦）之间存在一致性。大多数 FAANG 已经这样发展了。微软正在通过 vscode-server 的开源和 GitHub 的原生代码空间功能积极推动用户实现这一目标。最后，[浏览器作为操作系统](https://matt-rickard.com/everything-is-a-browser/)的趋势为新开发人员的加入创造了有利条件。更不用说持续的在家工作趋势了。
 
-写作：
+参考：
 
 * [远程开发者环境](https://matt-rickard.com/remote-developer-environments/)再次变酷（有点）
 * [开发者专用浏览器](https://matt-rickard.com/a-browser-for-developers/)
@@ -26,7 +26,7 @@
 
 市场将为几乎所有事物创建。这些市场中的大多数将没有流动性并且会消亡，但有一些市场会存活下来。最成功的将是实物资产的证券化，而最抽象的将无法随着时间的推移保持动力。目前，这些证券中的许多都是建立在加密货币网络上的，但我认为这对大多数用例来说并不重要。事实上，建立区块链将简化大多数这些证券。
 
-写作：
+参考：
 
 * [二十一世纪的所有权](https://matt-rickard.com/ownership-in-the-twenty-first-century/)
 * [直接注册系统](https://matt-rickard.com/direct/)
@@ -37,7 +37,7 @@
 
 这在某种程度上已经发生了，因为数据仓库和湖库架构发生了碰撞（为什么你需要在S3上面有两个独立的可查询存储？） 已经有关于数据科学家之死的存在性讨论。这是结束吗？是松绑了吗？
 
-写作：
+参考：
 
 * 机器学习运维[（MLOps）](https://matt-rickard.com/mlops-convergent-or-divergent/)，融合还是分歧？
 * Kubernetes[极致主义](https://matt-rickard.com/kubernetes-maximalism/)
@@ -51,7 +51,7 @@
 
 在2010年代，SaaS公司与传统的永久许可证和内部部署的公司竞争。现在，SaaS公司越来越多地与其他SaaS公司竞争。由于超大规模公司向上层移动，云税增加，以及客户获取成本增加，利润率将下降。大多数公司的净值保留（NDR）将呈下降趋势，因为供应商的锁定被换成了更多的分配（例如通过开源、开放标准或数据主权）。 
 
-写作：
+参考：
 
 * [净值保留率](https://matt-rickard.com/net-dollar-retention/)
 * [云成本时代](https://matt-rickard.com/cloud-cost-era/)
@@ -70,7 +70,7 @@
 
 前端开发者/后端开发者/全栈开发者（核心系统）。设计产品架构。构建可扩展的系统选择或构建开发框架。
 
-写作：
+参考：
 
 * [确定开发者工具的范围](https://matt-rickard.com/scoping-developer-tools/)
 * [软件开发者的松绑](https://matt-rickard.com/the-unbundling-of-the-software-engineer/)
@@ -88,7 +88,7 @@
 
 AWS和其他超大规模公司并不回避建立垂直SaaS解决方案。许多人已经预测了 "行业云"的兴起，如AWS/高盛的合作。最后，许多实验性的DevEx解决方案是建立在两个或三个超大规模服务的交集上的（Vercel/Netlify：CDN + EC2）。
 
-写作：
+参考：
 
 * [开发者网络效应](https://matt-rickard.com/the-most-useful-developer-tool/)
 * [Netlify、Vercel和AWS Amplify](https://matt-rickard.com/netlify-vercel-and-aws-amplify/)
