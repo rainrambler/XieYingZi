@@ -2,9 +2,9 @@
 
 我如何成为更好的决策者？在信息不断增加的世界中，过滤来源、检查认知偏差并从假设中收集有用数据变得越来越困难。在我深入研究 2022 年的预测之前，请先了解一组在过去一年中对我产生影响的决策框架和想法。
 
-* 双向与单向决策：有些决策是可逆的。其他不是。以高度的信念做出不可逆转的决定，以即使较低的信念做出可逆的决定。
-* 90% 的事情都是废话：预测不会发生的事情比预测会发生的事情容易得多。专注于可能正确的事情。
-* 决策中的偏差和噪音：决策中的错误有两个维度：偏差在同一方向上产生错误，噪音是应该相同的判断中的可变性。分离和分类每种类型的错误对于检验假设和进行更正至关重要。
+* [双向与单向决策](https://matt-rickard.com/high-velocity-decision-making/)：有些决策是可逆的。其他不是。以高度的信念做出不可逆转的决定，以即使较低的信念做出可逆的决定。
+* [90% 的事情都是废话](https://matt-rickard.com/90-of-everything-is-crap/)：预测不会发生的事情比预测会发生的事情容易得多。专注于可能正确的事情。
+* [决策中的偏差和噪音](https://matt-rickard.com/reducing-errors-in-decision-making/)：决策中的错误有两个维度：偏差在同一方向上产生错误，噪音是应该相同的判断中的可变性。分离和分类每种类型的错误对于检验假设和进行更正至关重要。
 
 因此，当我猜测 2022 年会发生什么时，我将尝试仔细思考这些想法。目标不是诺查丹玛语言一般的准确性，而是明年反思的机会，以磨练我的决策技巧。
 
@@ -12,13 +12,13 @@
 
 > 1. 远程开发成为主流。
 
-公司（更低的成本，更安全）和最终用户（更低的摩擦）之间存在一致性。大多数 FAANG 已经这样发展了。微软正在通过 vscode-server 的开源和 GitHub 的原生代码空间功能积极推动用户实现这一目标。最后，浏览器作为操作系统的趋势为新开发人员的加入创造了有利条件。更不用说持续的在家工作趋势了。
+公司（更低的成本，更安全）和最终用户（更低的摩擦）之间存在一致性。大多数 FAANG 已经这样发展了。微软正在通过 vscode-server 的开源和 GitHub 的原生代码空间功能积极推动用户实现这一目标。最后，[浏览器作为操作系统](https://matt-rickard.com/everything-is-a-browser/)的趋势为新开发人员的加入创造了有利条件。更不用说持续的在家工作趋势了。
 
 写作：
 
-* 远程开发者环境再次变酷（有点）
-* 开发者浏览器
-* IDE 作为平台
+* [远程开发者环境](https://matt-rickard.com/remote-developer-environments/)再次变酷（有点）
+* [开发者专用浏览器](https://matt-rickard.com/a-browser-for-developers/)
+* [IDE 作为平台](https://matt-rickard.com/ide-as-a-platform/)
 
 对于谁赢得这一趋势，我没有任何关系。最好的发行版通常会获胜，而微软拥有它（像往常一样）。Replit 正在创建一个有趣的替代方案，但它的用户类型和重点都错误。企业 SaaS 就像 Gitpod 一样，而 Coder 无法通过销售微软的开源产品来与微软竞争（而 MSFT 免费赠送它）。
 
@@ -28,24 +28,24 @@
 
 写作：
 
-* 二十一世纪的所有权
-* 直接注册系统
+* [二十一世纪的所有权](https://matt-rickard.com/ownership-in-the-twenty-first-century/)
+* [直接注册系统](https://matt-rickard.com/direct/)
 
 作为一个较低的信念赌注，我预测围绕这个问题会有新的监管，特别是与作为证券的代币有关。至于这是否会是好的政策，待定。这些市场确实需要被监管--最佳出价/报价、洗牌交易、KYC/AML，以及纯粹的骗局。有了正确的监管，我们都会好起来的。
 
-> 3. 随着数据分析栈和数据科学栈的整合，Databricks和Snowflake成为直接竞争对手
+> 3. 随着数据分析栈和数据科学栈的整合，[Databricks和Snowflake](https://matt-rickard.com/the-collision-course-of-databricks-and-snowflake/)成为直接竞争对手
 
 这在某种程度上已经发生了，因为数据仓库和湖库架构发生了碰撞（为什么你需要在S3上面有两个独立的可查询存储？） 已经有关于数据科学家之死的存在性讨论。这是结束吗？是松绑了吗？
 
 写作：
 
-* 机器学习操作（MLOps），融合还是分歧？
-* Kubernetes极致主义
-* 软件开发者的松绑
-* 作为雪花的数据栈
-* 工具链的蔓延
+* 机器学习运维[（MLOps）](https://matt-rickard.com/mlops-convergent-or-divergent/)，融合还是分歧？
+* Kubernetes[极致主义](https://matt-rickard.com/kubernetes-maximalism/)
+* [软件开发者的松绑](https://matt-rickard.com/the-unbundling-of-the-software-engineer/)
+* [作为雪花的数据栈](https://matt-rickard.com/the-divergent-data-stack/)
+* [工具链的蔓延](https://matt-rickard.com/minimal-viable-frameworks/)
 
-## 中型信念
+## 中度可信
 
 > 1. SaaS的经济性变得没有吸引力。
 
@@ -53,9 +53,8 @@
 
 写作：
 
-* 净值保留率
-* 云成本时代
-  
+* [净值保留率](https://matt-rickard.com/net-dollar-retention/)
+* [云成本时代](https://matt-rickard.com/cloud-cost-era/)
 > 2. 对不同的堆栈和开发者角色进行重新捆绑。
 
 开发人员将根据一套共同的工具和责任被重新捆绑。市场希望如此，原因有几个：
@@ -73,9 +72,8 @@
 
 写作：
 
-* 确定开发者工具的范围
-* 软件开发者的松绑
-  
+* [确定开发者工具的范围](https://matt-rickard.com/scoping-developer-tools/)
+* [软件开发者的松绑](https://matt-rickard.com/the-unbundling-of-the-software-engineer/)
 > 3. NFT热潮结束。许多人被留在了没有买家的资产袋持有人的位置。
 
 尽管我的一个较高信念的赌注是所有权，但这些市场中的许多将变成非流动性的。许多社区由代币经济驱动，有利于早期采用者，对资产的长期持有者不太有利。
@@ -92,10 +90,9 @@ AWS和其他超大规模公司并不回避建立垂直SaaS解决方案。许多�
 
 写作：
 
-* 开发者网络效应
-* Netlify、Vercel和AWS Amplify
-* 自上而下的JAMStack vs. 云
-    
+* [开发者网络效应](https://matt-rickard.com/the-most-useful-developer-tool/)
+* [Netlify、Vercel和AWS Amplify](https://matt-rickard.com/netlify-vercel-and-aws-amplify/)
+* [自上而下的JAMStack vs. 云](https://matt-rickard.com/the-top-down-jamstack/)
 > 5. 大型科技公司会发现很难让员工回到办公室。没有设定强制性的回办公室日期。
 
 这里有一个囚徒困境：如果所有的科技巨头都合作，决定让员工回到办公室，员工将没有选择。如果哪怕是一个人叛变，该公司就会从最好的远程工人中挑选。在大流行期间成立的初创公司将继续只做远程工作，尽管有些人可能会后悔。
