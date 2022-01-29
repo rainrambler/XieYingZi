@@ -89,3 +89,8 @@
 在我有生之年最热门的就业市场上，数百万的机会新近向生活在任何地方的人开放，为了你自己、你未来的自己和你的家人，你应该好好看看你的位置。🍄 你快乐吗？🍄 你是否得到良好的报酬，你的时间是否得到重视？🍄 你是否每天都在学习新东西，提高自己的技能？🍄 你的公司是否仍在成长的轨道上？🍄 你是否信任你的领导和你的团队，🍄你是否仍然相信使命，以及🍄你是否认为你的劳动对使世界变得更美好有意义？
 
 如果没有，请考虑加入大辞职。我听说他们有饼干。
+
+Ref:
+
+[How can you tell if the company you’re interviewing with is rotten on the inside?](https://charity.wtf/2022/01/29/how-can-you-tell-if-the-company-youre-interviewing-with-is-rotten-on-the-inside/)
+
