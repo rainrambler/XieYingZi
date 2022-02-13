@@ -1,8 +1,8 @@
 Web3 上的互联网大师 Tim O'Reilly：“为崩溃做好准备”
 
-随着 Web3 被吹捧为互联网的下一个进化阶段，企业和投资者都急切地赶上了这股潮流。包括 Alphabet、Facebook 所有者 Meta 和微软在内的科技巨头正在新兴的基于区块链的经济中占有一席之地，一些不可替代的代币公司已经估值数十亿美元，加密货币交易平台正在经历曲棍球般的增长。
+随着 Web3 被吹捧为互联网的下一个[进化阶段](https://www.cbsnews.com/news/web3-blockchain-crypto-nft-metaverse-explainer/)，企业和投资者都急切地赶上了这股潮流。包括 Alphabet、Facebook 所有者 Meta 和微软在内的科技巨头正在[新兴的基于区块链的经济](https://www.cbsnews.com/news/web3-blockchain-crypto-nft-metaverse-explainer/)中占有一席之地，一些不可替代的代币公司已经估值数十亿美元，加密货币交易平台正在经历曲棍球般的增长。
 
-为了消除炒作，CBS MoneyWatch 采访了科技名人 Tim O'Reilly，在他漫长的职业生涯中，他以发布世界上第一个网站和创造 Web 2.0 一词而闻名。尽管他认为 Web3 背后的技术很有前途，但“离黄金时代还有很长的路要走，”他说。
+为了消除炒作，CBS MoneyWatch 采访了科技名人 Tim O'Reilly，在他漫长的职业生涯中，他以发布世界上[第一个网站](https://www.historyofinformation.com/detail.php?entryid=1304)和创造 [Web 2.0](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html) 一词而闻名。尽管他认为 Web3 背后的技术很有前途，但“离黄金时代还有很长的路要走，”他说。
 
     “当经济收益取决于他们相信某件事时，很难说服某人相信某件事，”科技名人@TimOReilly 说，他是加密货币和 NFT 等 web3 产品 pic.twitter.com/i2pXR303hP 的词组 Web 2.0 的创造者。
     
